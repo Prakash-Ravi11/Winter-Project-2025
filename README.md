@@ -61,4 +61,20 @@ The project is designed to be lightweight, responsive, and deployable as a **Pro
 ---
 
 ## 📁 Project Structure
+Academic-Hub-X/
+│
+├── index.html
+├── style.css
+├── app.js
+├── subjects.json
+├── sw.js
+├── manifest.webmanifest
+│
+├── icons/
+│ ├── icon-192.png
+│ └── icon-512.png
+│
+├── README.md
+└── LICENSE
+
 
